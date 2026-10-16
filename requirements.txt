@@ -1,0 +1,13 @@
+functions-framework==3.*
+requests>=2.25.0
+google-auth>=2.0.0
+google-genai>=1.2.0
+google-api-python-client>=2.0.0
+cryptography>=42.0.0
+google-cloud-bigquery>=3.20.0
+google-cloud-bigquery-storage>=2.24.0
+protobuf>=4.25.0
+google-cloud-api-keys>=0.2.0
+httpx>=0.27.0
+google-cloud-resource-manager
+websockets
